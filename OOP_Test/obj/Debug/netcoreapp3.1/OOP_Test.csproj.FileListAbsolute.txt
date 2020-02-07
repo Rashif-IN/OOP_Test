@@ -1,0 +1,11 @@
+/Users/user/Projects/OOP_Test/OOP_Test/obj/Debug/netcoreapp3.1/OOP_Test.csprojAssemblyReference.cache
+/Users/user/Projects/OOP_Test/OOP_Test/obj/Debug/netcoreapp3.1/OOP_Test.AssemblyInfoInputs.cache
+/Users/user/Projects/OOP_Test/OOP_Test/obj/Debug/netcoreapp3.1/OOP_Test.AssemblyInfo.cs
+/Users/user/Projects/OOP_Test/OOP_Test/bin/Debug/netcoreapp3.1/OOP_Test
+/Users/user/Projects/OOP_Test/OOP_Test/bin/Debug/netcoreapp3.1/OOP_Test.deps.json
+/Users/user/Projects/OOP_Test/OOP_Test/bin/Debug/netcoreapp3.1/OOP_Test.runtimeconfig.json
+/Users/user/Projects/OOP_Test/OOP_Test/bin/Debug/netcoreapp3.1/OOP_Test.runtimeconfig.dev.json
+/Users/user/Projects/OOP_Test/OOP_Test/bin/Debug/netcoreapp3.1/OOP_Test.dll
+/Users/user/Projects/OOP_Test/OOP_Test/bin/Debug/netcoreapp3.1/OOP_Test.pdb
+/Users/user/Projects/OOP_Test/OOP_Test/obj/Debug/netcoreapp3.1/OOP_Test.dll
+/Users/user/Projects/OOP_Test/OOP_Test/obj/Debug/netcoreapp3.1/OOP_Test.pdb
