@@ -1,0 +1,23 @@
+02/10/2020 11:38:53 INFO: user encrypt a message
+02/10/2020 11:38:53 INFO: unknown tried to decrypt message
+02/10/2020 11:38:53 INFO: user decrpyt a message
+02/10/2020 11:38:53 INFO: user decrpyt a message
+02/10/2020 11:38:53 INFO: Logged in
+02/10/2020 11:38:53 INFO: user validated
+02/10/2020 11:38:53 INFO: user request id
+02/10/2020 11:38:53 INFO: root shows username
+02/10/2020 11:38:53 INFO: root is logged in
+02/10/2020 11:38:53 INFO: root is logged in
+02/10/2020 11:38:53 INFO: root last log in
+02/10/2020 11:38:53 INFO: root logged out
+02/10/2020 11:38:53 INFO: guest is user
+02/10/2020 11:38:53 INFO: item with ID:356 with price:10000 has been added 6
+02/10/2020 11:38:53 INFO: item with ID:983 with price:10000 has been added 2
+02/10/2020 11:38:53 INFO: item with ID:543 with price:10000 has been added 7
+02/10/2020 11:38:53 INFO: item with ID:983 has been removed
+02/10/2020 11:38:53 INFO: 30 % discount has been added to this cart
+02/10/2020 11:38:53 INFO: Total Item requested : 2 item(s)
+02/10/2020 11:38:53 INFO: Total quantity requested : 13 quantity
+02/10/2020 11:38:53 INFO: Total price requested : 39000
+02/10/2020 11:38:53 INFO: All items added : 356, 543
+02/10/2020 11:38:53 INFO: purchase has been made

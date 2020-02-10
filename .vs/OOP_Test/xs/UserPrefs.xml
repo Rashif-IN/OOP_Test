@@ -1,19 +1,21 @@
 ﻿<Properties StartupConfiguration="{F8914261-FFE4-4078-B3D2-B3235E88490A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="OOP_Test/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OOP_Test/app.log">
     <Files>
-      <File FileName="OOP_Test/Program.cs" Line="5" Column="1" />
-      <File FileName="OOP_Test/HashClass.cs" Line="11" Column="1" />
-      <File FileName="OOP_Test/CipherClass.cs" Line="1" Column="1" />
-      <File FileName="OOP_Test/LogClass.cs" Line="1" Column="1" />
-      <File FileName="OOP_Test/Auth.cs" Line="1" Column="1" />
-      <File FileName="OOP_Test/CartClass.cs" Line="1" Column="1" />
+      <File FileName="OOP_Test/Program.cs" Line="55" Column="1" />
+      <File FileName="OOP_Test/Auth.cs" Line="92" Column="50" />
+      <File FileName="OOP_Test/LogClass.cs" Line="17" Column="35" />
+      <File FileName="OOP_Test/CartClass.cs" Line="13" Column="6" />
+      <File FileName="OOP_Test/HashClass.cs" Line="1" Column="1" />
+      <File FileName="OOP_Test/CipherClass.cs" Line="35" Column="1" />
+      <File FileName="OOP_Test/Checkout.txt" Line="1" Column="1" />
+      <File FileName="OOP_Test/app.log" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="OOP_Test" expanded="True">
             <Node name="OOP_Test" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="app.log" selected="True" />
             </Node>
           </Node>
         </State>
@@ -21,7 +23,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.OOP__Test FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.OOP__Test PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
